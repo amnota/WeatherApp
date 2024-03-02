@@ -1,1 +1,4 @@
 # WeatherApp
+HTML
+JavaScript
+CSS
